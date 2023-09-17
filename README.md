@@ -1,8 +1,5 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=EunHye%20Kim&color=FBA1B7&fontColor=ffffff&height=250&fontAlignY=40&desc=AkoIsCat&descAlign=68)
-
-
 
 #### 👏 Welcome my github profile !
 
@@ -40,6 +37,4 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=akoiscat1216&tag=React&color=dark)](https://velog.io/@akoiscat1216)
 
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFE295)
 </div>
