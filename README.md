@@ -1,6 +1,6 @@
 <div align="left">
 
-### Welcome to EunHye's GitHub👏
+<h3> Welcome to EunHye's GitHub👏</h3>
 
 <br />
 
